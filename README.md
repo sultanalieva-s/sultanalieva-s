@@ -1,4 +1,5 @@
-## welcome to my github, i'm Saadat -- a software engineer with experience in backend using Python and Javascript languages.  
+## welcome to my github :)
+## i'm Saadat -- a software engineer with experience in backend using Python and Javascript languages.  
 ## my experience:  
 ### While working at Worlds, I worked on b2c and corporate automation projects in gamedev industry:  
 ### b2c projects:  
