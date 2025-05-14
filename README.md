@@ -11,8 +11,9 @@ corporate automation:
 2. a discord economy bot  
 3. game builds’ upload history log using AWS Lambda and AWS S3 triggers.
 
-contributor @[google summer of code](https://www.worlds.org)  
+google summer of code contributor @[apache beam](https://beam.apache.org)  
 building AI-powered code completion plugin for apache beam java sdk
+
 backend developer @reviro.io  
 worked on [NaviTaxi](http://navi.kg/) -- an online taxi aggregator and [Snapsome](https://snapsome.com) -- e-commerce web app.
 
