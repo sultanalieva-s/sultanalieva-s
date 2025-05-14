@@ -11,7 +11,7 @@ corporate automation:
 2. a discord economy bot  
 3. game builds’ upload history log using AWS Lambda and AWS S3 triggers.
 
-contributor @[google summer of code](https://www.worlds.org)
+contributor @[google summer of code](https://www.worlds.org)  
 backend developer @reviro.io
 
 <!--
