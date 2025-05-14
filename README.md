@@ -1,7 +1,7 @@
 ## welcome to my github :)
 i'm Saadat -- a software engineer. i have been working with FastApi, Node.js on the backend and Next.js on the frontend.  
 here is my experience:  
-[Worlds Gaming Corp](https://www.worlds.org), I worked on b2c and corporate automation projects in gamedev industry:  
+backend developer @[Worlds Gaming Corp](https://www.worlds.org), I worked on b2c and corporate automation projects in gamedev industry:  
 b2c projects:  
 1. fortnite.gg — a webapp for Fortnite creative maps.  
 2. developer dashboard — a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.  
@@ -9,7 +9,10 @@ b2c projects:
 corporate automation:  
 1. automatic transcriptions of Discord voice calls using Deepgram speech-to-text api.  
 2. a discord economy bot  
-3. game builds’ upload history log using AWS Lambda and AWS S3 triggers.  
+3. game builds’ upload history log using AWS Lambda and AWS S3 triggers.
+
+contributor @[google summer of code](https://www.worlds.org)
+backend developer @reviro.io
 
 <!--
 **sultanalieva-s/sultanalieva-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
