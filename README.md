@@ -3,7 +3,7 @@ i'm Saadat -- a software engineer. i have been working with FastApi, Node.js on 
 here is the overview of my experience:  
 backend developer @[Worlds Gaming Corp](https://www.worlds.org), I worked on b2c and corporate automation projects in gamedev industry:  
 b2c projects:  
-1. fortnite.gg — a webapp for Fortnite creative maps.  
+1. [fortnite.gg](https://www.creative.gg) — a webapp for Fortnite creative maps.  
 2. developer dashboard — a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.  
 3. player portal — a web application that allows users to provide their email address to receive a magic link. Users can then connect their Steam account in order to gain access to an Alpha Key. Afterwards, users have the ability to connect their Google and Twitter accounts, as well as their wallet address.  
 corporate automation:  
