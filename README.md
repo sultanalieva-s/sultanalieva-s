@@ -12,7 +12,10 @@ corporate automation:
 3. game builds’ upload history log using AWS Lambda and AWS S3 triggers.
 
 contributor @[google summer of code](https://www.worlds.org)  
-backend developer @reviro.io
+building AI-powered code completion plugin for apache beam java sdk
+backend developer @reviro.io  
+worked on [NaviTaxi](http://navi.kg/) -- an online taxi aggregator and [Snapsome](https://snapsome.com) -- e-commerce web app.
+
 
 <!--
 **sultanalieva-s/sultanalieva-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
