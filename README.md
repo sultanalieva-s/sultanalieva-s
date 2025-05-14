@@ -1,6 +1,6 @@
 ## welcome to my github :)
 i'm Saadat -- a software engineer. i have been working with FastApi, Node.js on the backend and Next.js on the frontend.  
-my experience:  
+here is my experience:  
 While working at Worlds, I worked on b2c and corporate automation projects in gamedev industry:  
 b2c projects:  
 1. fortnite.gg — a webapp for Fortnite creative maps.  
