@@ -1,2 +1,2 @@
 ## i build stuff
-i love to write a pythonic code
+i love to write pythonic code
